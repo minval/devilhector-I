@@ -1,4 +1,4 @@
 <?php
 $name = "anupraj";
-print name;
+print $name;
 ?>
